@@ -1,3 +1,5 @@
+-- Comments are good
+
 CREATE TABLE COMPLAINTS 
 ( 
 UNIQUE_KEY CHAR(10),
