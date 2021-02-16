@@ -1,4 +1,4 @@
--- Comments are good
+-- Comments are good, haha yes
 
 CREATE TABLE COMPLAINTS 
 ( 
